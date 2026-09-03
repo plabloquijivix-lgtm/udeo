@@ -1,0 +1,7 @@
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\bin\Debug\pablo quijivix.exe.config
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\bin\Debug\pablo quijivix.exe
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\bin\Debug\pablo quijivix.pdb
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\obj\Debug\pablo quijivix.csproj.AssemblyReference.cache
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\obj\Debug\pablo quijivix.csproj.CoreCompileInputs.cache
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\obj\Debug\pablo quijivix.exe
+C:\Users\plabl\OneDrive\Documentos\GitHub\udeo\pablo quijivix\pablo quijivix\obj\Debug\pablo quijivix.pdb
